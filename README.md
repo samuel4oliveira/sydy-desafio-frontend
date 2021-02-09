@@ -2,6 +2,8 @@
 
 💰React app para visualizar o valor do Bitcoin.
 
+Acesse em: https://samuel4oliveira.github.io/sydy-desafio-frontend/
+
 ## Instalação
 
 Instalação:
