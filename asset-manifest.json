@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sydy-desafio-frontend/static/css/main.53506a9e.chunk.css",
+    "main.js": "/sydy-desafio-frontend/static/js/main.09587a80.chunk.js",
+    "main.js.map": "/sydy-desafio-frontend/static/js/main.09587a80.chunk.js.map",
+    "runtime-main.js": "/sydy-desafio-frontend/static/js/runtime-main.b9fb01de.js",
+    "runtime-main.js.map": "/sydy-desafio-frontend/static/js/runtime-main.b9fb01de.js.map",
+    "static/js/2.ce33e077.chunk.js": "/sydy-desafio-frontend/static/js/2.ce33e077.chunk.js",
+    "static/js/2.ce33e077.chunk.js.map": "/sydy-desafio-frontend/static/js/2.ce33e077.chunk.js.map",
+    "index.html": "/sydy-desafio-frontend/index.html",
+    "static/css/main.53506a9e.chunk.css.map": "/sydy-desafio-frontend/static/css/main.53506a9e.chunk.css.map",
+    "static/js/2.ce33e077.chunk.js.LICENSE.txt": "/sydy-desafio-frontend/static/js/2.ce33e077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9fb01de.js",
+    "static/js/2.ce33e077.chunk.js",
+    "static/css/main.53506a9e.chunk.css",
+    "static/js/main.09587a80.chunk.js"
+  ]
+}
