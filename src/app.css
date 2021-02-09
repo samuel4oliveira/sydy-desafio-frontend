@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: "Roboto Slab", serif;
+}
+
+.App h1::first-letter {
+    font-size: 2.2rem;
+    color: #c04159;
+}
+
+.App a {
+    color: #c04159;
+    text-decoration: none;
+}
+
+.App a:hover {
+    color: #da4c66;
+}

@@ -1,0 +1,12 @@
+.CurrencyTable {
+    text-align: center;
+}
+
+.CurrencyTable th {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.CurrencyTable td::first-letter {
+    color: #c04159;
+}
